@@ -1,0 +1,7 @@
+= zim-k9s
+
+https://github.com/zimfw/zimfw[zim module] for https://github.com/derailed/k9s[k9s].
+
+== Features
+
+* Completion
