@@ -7,4 +7,5 @@
   if [[ ! -e $compfile || $compfile -ot $command ]]; then
     $command completion zsh >| $compfile
     zimfw check-dumpfile
+  fi
 } ${0:h}
