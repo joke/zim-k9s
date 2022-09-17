@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://github.com/joke/zim-k9s/compare/v1.0.0...v1.0.1) (2022-09-17)
+
+
+### Bug Fixes
+
+* script error ([5e9d580](https://github.com/joke/zim-k9s/commit/5e9d5804f915f3ccb4713870a42e7c957970a0e1))
+
 ## 1.0.0 (2022-09-17)
 
 
