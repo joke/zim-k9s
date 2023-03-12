@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/joke/zim-k9s/compare/v1.0.1...v1.0.2) (2023-03-12)
+
+
+### Bug Fixes
+
+* new version detection message ([bfcde16](https://github.com/joke/zim-k9s/commit/bfcde16b019e0ff66d398aa9b63750cc9b71a902))
+
 ### [1.0.1](https://github.com/joke/zim-k9s/compare/v1.0.0...v1.0.1) (2022-09-17)
 
 
